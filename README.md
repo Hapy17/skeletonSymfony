@@ -1,10 +1,11 @@
 # Squelette de projet Symfony
 ## Sommaire 
 
-
   - [Plusieurs manière de récupérer le Squelette de projet Symfony <a name="getRepository"></a>](#plusieurs-manière-de-récupérer-le-squelette-de-projet-symfony-)
     - [- Cloner le Repos directement en local](#--cloner-le-repos-directement-en-local)
     - [- Utilisez le template du squelette](#--utilisez-le-template-du-squelette)
+  - [Initalisation du projet squelette Symfony](#initalisation-du-projet-squelette-symfony)
+  
 ---  
 ---
 ## Plusieurs manière de récupérer le Squelette de projet Symfony <a name="getRepository"></a>
