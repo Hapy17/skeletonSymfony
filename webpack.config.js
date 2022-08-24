@@ -20,11 +20,11 @@ Encore
      * Each entry will result in one JavaScript file (e.g. app.js)
      * and one CSS file (e.g. app.css) if your JavaScript imports CSS.
      */
-    .addEntry('script', './assets/front/script/index.ts')
-    .addStyleEntry('style', './assets/front/style/index.scss')
+    .addEntry('front_script', './assets/front/script/index.ts')
+    .addStyleEntry('front_style', './assets/front/style/index.scss')
 
-    .addEntry('script', './assets/back/script/index.ts')
-    .addStyleEntry('style', './assets/back/style/index.scss')
+    .addEntry('back_script', './assets/back/script/index.ts')
+    .addStyleEntry('back_style', './assets/back/style/index.scss')
 
 
     // enables the Symfony UX Stimulus bridge (used in assets/bootstrap.js)
