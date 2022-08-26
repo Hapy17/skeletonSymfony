@@ -3,7 +3,7 @@
 
   - [Plusieurs manière de récupérer le Squelette de projet Symfony <a name="getRepository"></a>](#plusieurs-manière-de-récupérer-le-squelette-de-projet-symfony-)
     - [- Cloner le Repos directement en local](#--cloner-le-repos-directement-en-local)
-    - [- Utilisez le template du squelette](#--utilisez-le-template-du-squelette)
+    - [- Utilisez le template du squelette(RECOMMANDEE)](#--utilisez-le-template-du-squelette)
   - [Initalisation du projet squelette Symfony](#initalisation-du-projet-squelette-symfony)
   
 ---  
@@ -17,7 +17,7 @@ Il est possible de cloner le squelette de projet Symfony directement en local av
 git clone https://github.com/Hapy17/skeletonSymfony.git
 ```    
 ---
-### - Utilisez le template du squelette 
+### - Utilisez le template du squelette (RECOMMANDEE)
 Il est aussi possible d'utiliser le template du squelette de projet Symfony en cliquant sur le bouton bleu 'Use this template' :  
 ![Bouton use the template!](/assets/img/md/ButtonUseThisTemplate.png "Bouton use the template!")  
 Choisissez l'utilisateur, le nom du repository et remplissez le reste de options ou laissez les valeurs par défaut.  
